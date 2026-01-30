@@ -27,20 +27,6 @@ O simulador destaca-se pelas seguintes implementações técnicas:
 
 ---
 
-## 💻 Como Compilar e Executar
-
-1.  Certifique-se de ter um compilador C (como o GCC) instalado.
-2.  Compile o código:
-    ```bash
-    gcc batalha_naval -o batalha_naval
-    ```
-3.  Execute o programa:
-    ```bash
-    ./batalha_naval
-    ```
-
----
-
 ## 📂 Estrutura do Código
 
 | Função | Responsabilidade |
