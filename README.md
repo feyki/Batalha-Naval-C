@@ -32,7 +32,7 @@ O simulador destaca-se pelas seguintes implementações técnicas:
 1.  Certifique-se de ter um compilador C (como o GCC) instalado.
 2.  Compile o código:
     ```bash
-    gcc oloko.c -o batalha_naval
+    gcc batalha_naval -o batalha_naval
     ```
 3.  Execute o programa:
     ```bash
