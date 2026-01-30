@@ -38,4 +38,4 @@ O simulador destaca-se pelas seguintes implementações técnicas:
 ---
 
 ## 👩‍💻 Autor
-Desenvolvido como um projeto de portfólio para demonstrar lógica avançada em C e manipulação de estruturas de dados.
+Desenvolvido como um projeto de portfólio para demonstrar lógica em C e manipulação de estruturas de dados.
